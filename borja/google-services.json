@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312926656866",
+    "project_id": "test-ffd18",
+    "storage_bucket": "test-ffd18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312926656866:android:bca22a4740ba1a79fc343b",
+        "android_client_info": {
+          "package_name": "com.borjaunizar.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312926656866-cdgrgj5bo0j11dtffqe0gj54ih3fhksn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0HJXzhjnqhqJifg4tVOfST8fbPE2KhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312926656866-cdgrgj5bo0j11dtffqe0gj54ih3fhksn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
